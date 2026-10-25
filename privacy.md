@@ -8,7 +8,7 @@ permalink: /privacy.html
 
 Last updated: 25 October 2026
 
-EssaysEuropa Poster is developed and operated by Sigurd Bigset as a personal application for uploading original videos to his own YouTube channel.
+EssaysEuropa Poster is a personal application operated under the EssaysEuropa project for uploading original videos to the owner's YouTube channel.
 
 The application uses YouTube API Services. This policy explains how it handles information used for that functionality.
 
@@ -57,7 +57,7 @@ Authorization credentials are retained locally while the application remains con
 
 The owner can delete locally stored credentials and retained API data.
 
-Deletion requests may also be sent to slbigset@gmail.com. Application-held Google user data covered by such requests will be deleted as soon as possible and within seven calendar days.
+Deletion requests may also be sent to lyngvaldarnegard@gmail.com. Application-held Google user data covered by such requests will be deleted as soon as possible and within seven calendar days.
 
 Deleting local files or disconnecting the application does not delete videos already uploaded to YouTube. Those videos can be managed or deleted through YouTube.
 
@@ -69,7 +69,7 @@ Select EssaysEuropa Poster and remove its access.
 
 After revoking access, stop using the integration and delete its locally stored authorization credentials and retained API data. A new authorization is required before the application can access the account again.
 
-For assistance with revocation or deletion, contact slbigset@gmail.com.
+For assistance with revocation or deletion, contact lyngvaldarnegard@gmail.com.
 
 ## Cookies and advertising
 
@@ -82,3 +82,10 @@ The application does not use Google user data for targeted advertising.
 ## Changes
 
 This policy will be updated if the application's functionality or data-handling practices change.
+
+## Contact
+
+EssaysEuropa  
+[lyngvaldarnegard@gmail.com](mailto:lyngvaldarnegard@gmail.com)
+
+[Home](https://lyngvaldarnegard.github.io/EssaysEuropa/) | [Terms of Use](https://lyngvaldarnegard.github.io/EssaysEuropa/terms.html)
