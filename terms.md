@@ -10,7 +10,7 @@ Last updated: 25 October 2026
 
 ## Purpose and operator
 
-EssaysEuropa Poster is a personal application developed by Sigurd Bigset for uploading original videos to his own YouTube channel through YouTube API Services.
+EssaysEuropa Poster is a personal application operated under the EssaysEuropa project for uploading original videos to the owner's YouTube channel through YouTube API Services.
 
 The application is under development and is not offered as a public service.
 
@@ -45,6 +45,10 @@ These terms do not guarantee API approval or access to any particular publishing
 The operator may stop using the application at any time and revoke its access through the [Google Account connections page](https://myaccount.google.com/connections).
 
 Information about retained data and deletion is provided in the [Privacy Policy](https://lyngvaldarnegard.github.io/EssaysEuropa/privacy.html).
-[slbigset@gmail.com](mailto:slbigset@gmail.com)
+
+## Contact
+
+EssaysEuropa  
+[lyngvaldarnegard@gmail.com](mailto:lyngvaldarnegard@gmail.com)
 
 [Home](https://lyngvaldarnegard.github.io/EssaysEuropa/) | [Privacy Policy](https://lyngvaldarnegard.github.io/EssaysEuropa/privacy.html)
