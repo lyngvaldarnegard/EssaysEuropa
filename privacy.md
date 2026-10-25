@@ -82,10 +82,3 @@ The application does not use Google user data for targeted advertising.
 ## Changes
 
 This policy will be updated if the application's functionality or data-handling practices change.
-
-## Contact
-
-Sigurd Bigset  
-[slbigset@gmail.com](mailto:slbigset@gmail.com)
-
-[Home](https://lyngvaldarnegard.github.io/EssaysEuropa/) | [Terms of Use](https://lyngvaldarnegard.github.io/EssaysEuropa/terms.html)
