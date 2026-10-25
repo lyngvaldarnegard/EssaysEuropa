@@ -33,8 +33,3 @@ No login is required to read this website.
 
 - [Privacy Policy](https://lyngvaldarnegard.github.io/EssaysEuropa/privacy.html)
 - [Terms of Use](https://lyngvaldarnegard.github.io/EssaysEuropa/terms.html)
-
-## Contact
-
-Sigurd Bigset  
-[slbigset@gmail.com](mailto:slbigset@gmail.com)
