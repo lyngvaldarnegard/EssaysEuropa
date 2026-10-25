@@ -1,28 +1,40 @@
+---
+layout: verified
+title: EssaysEuropa Poster
+---
+
 # EssaysEuropa Poster
 
-EssaysEuropa Poster is a personal video-upload application developed by Sigurd Bigset for publishing original EssaysEuropa videos to his own YouTube channel.
+EssaysEuropa Poster is a personal application developed by Sigurd Bigset for uploading original EssaysEuropa videos to his own YouTube channel using YouTube API Services.
 
-The application is intended for its owner's use only. It is not a public service and does not offer account registration.
+The application is under development for its owner's use only. It is not a public service and does not offer account registration.
 
 ## What the application does
 
-The application uses YouTube API Services to upload a selected video and its accompanying title, description, and publication settings to the owner's authorized YouTube account.
+The application uploads a video selected by the owner, together with its title, description, and chosen publication settings, to the owner's authorized YouTube account.
 
-It is a publishing utility. It does not create a social network, sell account information, or provide access to other people's accounts.
+The owner controls which content is uploaded and which publication settings are used.
 
 ## Why Google account access is requested
 
 Google authorization allows the application to upload videos to YouTube on the owner's behalf.
 
-Authorization is granted through Google's sign-in and consent process. The application does not ask for or receive the owner's Google password.
+Authorization takes place through Google's sign-in and consent process. The application does not ask for or receive the owner's Google password.
 
-Access is used only for the publishing functions authorized by the owner. The application does not use Google account data for advertising.
+Google account access is used only for the authorized YouTube publishing functionality. Google user data is not used for advertising.
 
-## Personal use and availability
+## Availability
 
-The application is under development for private use. This website provides public information about its purpose, privacy practices, and terms. No login is required to read these pages.
+The application is intended for private use. This website provides publicly accessible information about its functionality, privacy practices, and terms.
+
+No login is required to read this website.
 
 ## Privacy and terms
 
-- [Privacy Policy](privacy.html)
-- [Terms of Use](terms.html)
+- [Privacy Policy](https://lyngvaldarnegard.github.io/EssaysEuropa/privacy.html)
+- [Terms of Use](https://lyngvaldarnegard.github.io/EssaysEuropa/terms.html)
+
+## Contact
+
+Sigurd Bigset  
+[slbigset@gmail.com](mailto:slbigset@gmail.com)
